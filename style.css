@@ -1,0 +1,50 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+main{
+    height:100%;
+    width: 100%;
+    background-color: darkorange;
+}
+img{margin-left: 40%;
+width: 20%;
+height: 20;}
+h1{text-align: center;
+font-size: 450%;
+color:white;
+}
+p{font-size: 30px;
+text-align: center;}
+h2{text-align: center;
+font-size: 50px;}
+#handler{text-align: left; 
+font-size: 20px;}
+nav a{
+font-size: 150%;
+color: white;
+
+
+}
+nav{
+    text-align: center;
+    background-color: darkorange;
+}
+#name{ height:100%;
+    width: 100%;
+    background-color: darkorange;}
+ #hamper{font-size: 17px;}
+ #hevean{height: 66%;
+  width: 36%;}
+h4{ padding: 20px;
+    background-color: darkorange;
+}
+h2{
+    background-color: darkorange;
+}
