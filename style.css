@@ -42,8 +42,8 @@ nav{
     text-align: center;
     background-color: darkorange;
 }
-#name{ height:100%;
-    width: 100%;
+#name{ height:200%;
+    width: 200%;
     background-color: darkorange;}
  #hamper{font-size: 17px;
          background-color: darkorange}
